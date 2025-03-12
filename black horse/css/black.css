@@ -1,0 +1,80 @@
+/* .parent{
+    display: grid;
+    width: 1000px;
+    grid-template-columns: repeat(3,300px);
+    grid-template-rows: repeat(3,300px);
+    gap: 20px 20px;
+    margin: auto auto; 
+    padding: 50px 50px ;
+    
+}
+
+
+
+.item2{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    
+    background-color: rebeccapurple;
+}
+.item3{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+.item4{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+}
+.item5{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: blanchedalmond;
+}
+.item6{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+}
+.item7{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+}
+.item8{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: royalblue;
+}
+.item9{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+}
+.item10{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+}
+.item11{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+}
+.item12{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+}  */
